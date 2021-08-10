@@ -1,4 +1,7 @@
-
+<div align="center">
+   <img width="300" src="img/flyos.png" alt="logo"></br>
+   <strong>FlyOS<sup>4</sup> is an artifact of Android phones</strong>
+</div>
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1b51bf8e7f61450f8bc37c3609c188da)](https://app.codacy.com/gh/NaturalSelect/flyos?utm_source=github.com&utm_medium=referral&utm_content=NaturalSelect/flyos&utm_campaign=Badge_Grade_Settings)
 
 ## Document Language
@@ -29,7 +32,7 @@ It is still under construction.
 
 ## Installation
 
-1. Install [termux](http://f-droid.org/en/packages/com.termux/)and open
+1. Install [termux](http://f-droid.org/en/packages/com.termux/) and open
 2. Enter in Termux: `curl -L http://flyosgeek.com/gosetup.sh | bash` and press Enter
 
 ---
