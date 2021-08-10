@@ -37,7 +37,9 @@
     </ol> 
    </div> 
    <div class="quickstart"> 
-    <h2>Quick start</h2> <p>flyos runs in the termux advanced terminal, easy to use, so you don’t need much configuration</p> <p>After the installation is complete, enter exit, open it again, we will initialize, and the browser will visit the corresponding display address The configuration can be completed. After the configuration is successful, flyos will start automatically. After the configuration is complete, it is simple and easy to use, and can understand a little level (development for junior high school students, I believe your level is not bad)</p> </h2>
+    <h2>Quick start</h2>
+<p>FlyOS is based on Termux, it should be easy to use and quick to start, but it can't. It's awful. </p>
+<p>After the installation is complete, reopen it, it will become unavailable and bring you to your favorite browser(e.g. Internet Explorer). The configuration can be completed. After the configuration is successful, FlyOS will shut down or start automatically. (It depends on your fortune. )After the configuration is complete, it is simple and easy to use, and can understand a little level (development for junior high school students, I believe your level is worse than me, because, I, Xing Y.J. ,is better than anyone. )</p> </h2>
    </div> 
    <div> 
     <div> 
