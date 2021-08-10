@@ -8,7 +8,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1b51bf8e7f61450f8bc37c3609c188da)](https://app.codacy.com/gh/NaturalSelect/flyos?utm_source=github.com&utm_medium=referral&utm_content=NaturalSelect/flyos&utm_campaign=Badge_Grade_Settings)
 
 ## Document Language
-|[简体中文](http://flyosgeek.com/cn.html)|[русский](https://github.com/FuckOS/FlyOSDoc_Purified/blob/master/RU.md)|
+|[简体中文](https://github.com/FuckOS/FlyOSDoc_Purified/blob/master/CN.md)|[русский](https://github.com/FuckOS/FlyOSDoc_Purified/blob/master/RU.md)|
 |------|------|
 
 ---
