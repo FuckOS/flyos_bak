@@ -7,9 +7,9 @@
 
     
    <h2>Document Language</h2>
-   <a href="http://flyosgeek.com/cn.html">简体中文</a>
+   <a href="http://flyosgeek.com/cn.html">简体中文☆</a>
   <br>
-  <a href="https://github.com/FuckOS/FlyOSDoc_Purified/blob/master/RU.md">русский</a>
+  <a href="https://github.com/FuckOS/FlyOSDoc_Purified/blob/master/RU.md">русский♡</a>
    <div class="introduction"> 
     <h2>Introduction</h2> 
     <p>FlyOS is a powerful software. </p> 
