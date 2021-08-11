@@ -18,14 +18,14 @@ FlyOS is a powerful software.
 
 It is still under construction.
 
-**FlyOS Console:(Main function)**
+**FlyOS Console: (Main function)**
 - Web panel (one-click mobile station construction)
 - Web deployment of the original GNU/Linux distribution
 - Online web-friendly creation of virtual machine panel
 - Support Beginner one-click deployment of various systems
 - Use FlyChat to chat 
 - Use web to manage mobile phone online Function, remote control
-- You can use flyosx86wine or a virtual machine to run Windows (EXE, MSI) applications
+- You can use flyosx86wine or a virtual machine to run `*.EXE`, `*.MSI`
 - One-click installation of software packages
 - Develop artificial intelligence projects
 - Deploying GUI environment
@@ -43,7 +43,7 @@ It is still under construction.
 ## Quick start
 FlyOS is based on Termux, it should be easy to use and quick to start, but it can't. It's awful.
 
-After the installation is complete, reopen it, it will become unavailable and bring you to your favorite browser(e.g. Internet Explorer). The configuration can be completed. After the configuration is successful, FlyOS will shut down or start automatically. (It depends on your fortune. )After the configuration is complete, it is simple and easy to use, and can understand a little level (development for junior high school students, I believe your level is worse than me, because, I, Xing Y.J. ,is better than anyone. )
+After the installation is complete, reopen it, it will become unavailable and bring you to your favorite browser(e.g. Internet Explorer). The configuration can be completed. After the configuration is successful, FlyOS will shut down or start automatically. (It depends on your fortune. )After the configuration is complete, it is simple and easy to use, and can understand a little level (written by junior high school students, I believe your level is worse than me, because, I, Xing Y.J. , is better than anyone. )
 
 ---
 
