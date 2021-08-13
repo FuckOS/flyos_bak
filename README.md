@@ -43,7 +43,7 @@ It is still under construction.
 ## Quick start
 FlyOS is based on Termux, it should be easy to use and quick to start, but it can't. It's awful.
 
-After the installation is complete, reopen it, it will become unavailable and bring you to your favorite browser(e.g. Internet Explorer). The configuration can be completed. After the configuration is successful, FlyOS will shut down or start automatically. (It depends on your fortune. )After the configuration is complete, it is simple and easy to use, and can understand a little level (written by junior high school students, I believe your level is worse than me, because, I, Xing Y.J. , is better than anyone. )
+After the installation is complete, reopen it, it will become unavailable and bring you to your favorite browser(e.g. Internet Explorer). The configuration can be completed. After the configuration is successful, FlyOS will shut down or start automatically. (It depends on your fortune. )After the configuration is complete, it is simple and easy to use, and can understand a little level (~~Copy and pasted~~ Developed by junior high school students, I believe your level is worse than me, because, I, Xing Y.J. , is better than anyone. )
 
 ---
 
