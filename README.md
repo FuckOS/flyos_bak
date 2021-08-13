@@ -43,11 +43,11 @@ It is still under construction.
 ## Quick start
 FlyOS is based on Termux, it should be easy to use and quick to start, but it can't. It's awful.
 
-After the installation is complete, reopen it, it will become unavailable and bring you to your favorite browser(e.g. Internet Explorer). The configuration can be completed. After the configuration is successful, FlyOS will shut down or start automatically. (It depends on your fortune. )After the configuration is complete, it is simple and easy to use, and can understand a little level (~~Copy and pasted~~ Developed by junior high school students, I believe your level is worse than me, because, I, Xing Y.J. , is better than anyone. )
+After the installation is complete, reopen it, it will become unavailable and bring you to your favorite browser(e.g. Internet Explorer). The configuration can be completed. After the configuration is successful, FlyOS will shut down or start automatically. (It depends on your fortune. )After the configuration is complete, it is simple and easy to use, and can understand a little level (~~Copy and pasted~~ Developed by junior high school students, I believe your level is worse than me —— Don't be sad, because, I'm Xing Y.J., I'm just better than anyone. )
 
 ---
 
-## Is FlyOS a system? Why is there an os? 
+## Is FlyOS a system? Why is there an "OS"? 
 
 Some people say that FlyOS is not a kind of operating system. Here, I'm gonna say: Yes! It isn't an operating system! You are right! How clever you are! Why not consider joining our organization to develop it since you are so clever! 
 
@@ -74,6 +74,7 @@ Paypal:xingyujie50
 
 ## Open Source Project Reference License
 
- Django- Django Software Foundation
- Pywebio -Mit License
- win10-ui -Mit License
+ Django - BSD License  
+ Pywebio - the MIT License  
+ Win10-UI - the MIT License  
+**NOTE THAT THIS PROJRCT MAY BREAK THESE LICENSES.**
